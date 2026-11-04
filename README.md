@@ -10,7 +10,7 @@ Homebrew formulae for [seckinbeduk](https://github.com/seckinbeduk)'s tools.
 brew install seckinbeduk/tap/nib
 ```
 
-Update with `brew upgrade nib`.
+Then commit with `git nib`. Update with `brew upgrade nib`.
 
 The formulae install prebuilt binaries from each project's GitHub releases.
 The binaries are ad-hoc signed, not notarized.
