@@ -1,8 +1,8 @@
 class Nib < Formula
   desc "Write git commit messages on-device with Apple Intelligence"
   homepage "https://github.com/seckinbeduk/nib"
-  url "https://github.com/seckinbeduk/nib/releases/download/v0.5.0/nib-0.5.0-arm64.tar.gz"
-  sha256 "abedd847fa2c8cb93e85f9181496dd91f185b4080b5520b241a7f3c87790bfc4"
+  url "https://github.com/seckinbeduk/nib/releases/download/v0.5.1/nib-0.5.1-arm64.tar.gz"
+  sha256 "ab48af5bd8de79ffe4b48e4e8c0ea5f3834f30616bc7c969663f417ef6b41c88"
   license "MIT"
 
   depends_on arch: :arm64
